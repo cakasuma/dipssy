@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.box {
+    width: 100px;
+    border: 1px solid #ccc;
+    padding: 8px 16px;
+    margin: 8px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
